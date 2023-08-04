@@ -24,6 +24,7 @@
   <img align="center" alt="Ts" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="linux" width="40" height="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <a href="https://betaflight.com/" target="_blank" ><img align="center" alt="Betaflight" width="40" height="40"src="https://www.wearefpv.fr/wp-content/uploads/2023/01/logo_fb.png"/> </a>
+  <a href="https://betaflight.com/" target="_blank" ><img align="center" alt="Betaflight" width="40" height="40"src="[https://www.wearefpv.fr/wp-content/uploads/2023/01/logo_fb.png](https://www.flaticon.com/free-icon/oracle_5969170?term=oracle&page=1&position=2&origin=search&related_id=5969170)"/> </a>
   <a href="https://www.postgresql.org/" target="_blank" > <img align="center" alt="postgresql" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"/> </a>
   <img align="center" alt="docker" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg">
 </div>
