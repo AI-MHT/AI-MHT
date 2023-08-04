@@ -13,7 +13,7 @@
 <a href="https://web.facebook.com/mhamed.mouhat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/mhamed.mouhat" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools 🛠️ :</h3>
+<h3 align="left">Programming Languages & Tools  🛠️ : </h3>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
