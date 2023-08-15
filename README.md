@@ -1,5 +1,7 @@
 <h1 align="center">Hi, I'm Aiman Mouhat</h1>
 <br>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=AI-MHT&label=Profile%20views&color=0e75b6&style=flat" alt="AI-MHT" /> </p>
+<br>
 👨‍💼 Software & Digitalization Student <br>
 🏫 Currently studying at ENSEM, MOROCCO <br>
 🎯 Focused on projects that challenge and inspire <br>
